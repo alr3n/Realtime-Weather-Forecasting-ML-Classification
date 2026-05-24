@@ -46,3 +46,5 @@ ml/.ipynb_checkpoints/
 
 # OS
 Thumbs.db
+
+.claude/
