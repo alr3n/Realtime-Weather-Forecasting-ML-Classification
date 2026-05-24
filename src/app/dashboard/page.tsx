@@ -1,7 +1,7 @@
 import WeatherDashboard from '@/components/WeatherDashboard';
 
 export const metadata = {
-  title: 'Dashboard · Weather Forecast & ML',
+  title: 'Dashboard · Weather Forecast ML',
   description: 'Real-time weather with ML-powered classification.',
 };
 
