@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     'Live weather + 5-day forecast for any city, with an XGBoost ML model classifying the conditions into Sunny / Cloudy / Rainy / Snowy.',
   applicationName: 'Weather Forecast & ML',
-  authors: [{ name: 'Weather Forecast App' }],
+  authors: [{ name: 'Alren Grampon' }],   
   manifest: '/manifest.json',
   appleWebApp: {
     capable: true,
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: 'Weather',
   },
   icons: {
-    icon: '/favicon.ico',
+    icon: '/favicon.ico',          
   },
 };
 
