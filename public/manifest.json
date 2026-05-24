@@ -1,0 +1,17 @@
+{
+  "name": "Realtime Weather Forecasting & ML Classification",
+  "short_name": "Weather ML",
+  "description": "Live weather + 5-day forecast with XGBoost classification (Sunny / Cloudy / Rainy / Snowy).",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0c29",
+  "theme_color": "#0f0c29",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

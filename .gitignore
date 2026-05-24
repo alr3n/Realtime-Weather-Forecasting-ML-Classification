@@ -1,0 +1,48 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js
+/.next/
+/out/
+
+# Production
+/build
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env*.local
+.env.local
+
+# Vercel
+.vercel
+
+# Typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Python / ML
+ml/venv/
+ml/__pycache__/
+ml/*.pyc
+ml/.ipynb_checkpoints/
+# Keep the dataset and trained artifacts when committing to deploy on Railway:
+# (comment out the next 3 lines if you want to git-ignore them locally)
+# ml/weather_classifier.pkl
+# ml/label_encoder.pkl
+# ml/feature_importance.json
+
+# OS
+Thumbs.db

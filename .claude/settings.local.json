@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s /b \"D:\\\\icepep25\\\\weather-forecast-app\\\\weather-forecast-app\")",
+      "Bash(findstr /E \".js .jsx .ts .tsx .html .css .vue\")",
+      "Bash(python -c \"import uvicorn, fastapi, xgboost, joblib; print\\('deps ok'\\)\")",
+      "Bash(\"./venv/Scripts/uvicorn.exe\" api_server:app --host 0.0.0.0 --port 8000)",
+      "Bash(curl -s http://127.0.0.1:8000/health)",
+      "Bash(netstat -ano)"
+    ]
+  }
+}
