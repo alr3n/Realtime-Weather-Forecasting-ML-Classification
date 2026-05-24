@@ -3,7 +3,7 @@
   "buildCommand": "npm run build",
   "outputDirectory": ".next",
   "env": {
-    "OPENWEATHER_API_KEY": "YOUR_API_KEY_HERE",
+    "OPENWEATHER_API_KEY": "@openweather_api_key",
     "PYTHON_API_URL": "@python_api_url"
   },
   "headers": [

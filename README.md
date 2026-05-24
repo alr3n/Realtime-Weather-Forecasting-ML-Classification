@@ -47,7 +47,7 @@ You need these installed once:
 - **VS Code** — https://code.visualstudio.com
 - **Git** — https://git-scm.com
 - A free **Google account** (for Google Colab)
-- An **OpenWeatherMap API key** — `YOUR_API_KEY_HERE` is already wired into `.env.local.example`. You can also create your own free key at https://openweathermap.org/api.
+- An **OpenWeatherMap API key** — `OPENWEATHER_API_KEY=YOUR_API_KEY` is already wired into `.env.local.example`. You can also create your own free key at https://openweathermap.org/api.
 
 ---
 
