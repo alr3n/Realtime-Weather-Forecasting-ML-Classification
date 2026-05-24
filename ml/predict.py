@@ -11,7 +11,7 @@ from typing import Any, Dict
 
 import joblib
 import numpy as np
-import pandas as pd
+import pandas as pd 
 
 HERE = Path(__file__).resolve().parent
 MODEL_PATH = HERE / "weather_classifier.pkl"
